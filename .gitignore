@@ -1,0 +1,23 @@
+# Vivado auto-generated files
+*.jou
+*.log
+*.str
+*.zip
+*.wdb
+*.rpt
+*.pb
+*.xml
+*.html
+*.xmsgs
+*.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.hw/
+*.srcs/sources_1/ip/*/synth/*
+*.srcs/sources_1/ip/*/sim/*
+
+# OS-specific
+.DS_Store
+Thumbs.db
